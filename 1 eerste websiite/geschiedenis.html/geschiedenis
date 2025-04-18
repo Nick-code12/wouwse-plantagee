@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Geschiedenis van Wouwse Plantage</title>
+  <link rel="stylesheet" href="style.css" /> <!-- Enkel hier stylesheet koppelen -->
+</head>
+<body>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="natuur.html">Natuur</a>
+    <a href="geschiedenis.html">Geschiedenis</a>
+    <a href="fotos.html">Foto’s</a>
+  </nav>
+
+  <header>
+    <h1>🏰 Geschiedenis van Wouwse Plantage</h1>
+    <p>Van landgoed tot gezellig dorp</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Oorsprong</h2>
+      <p>Wouwse Plantage begon als een landgoed rond 1500. Later groeide het uit tot een dorp. Het landgoed Moretusbos is genoemd naar de beroemde familie Moretus.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Gemaakt door [Jouw Naam]</p>
+  </footer>
+
+</body>
+</html>

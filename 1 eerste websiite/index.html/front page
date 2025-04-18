@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wouwse Plantage</title>
+  <link rel="stylesheet" href="style.css" /> <!-- Alleen hier stylesheet koppelen -->
+</head>
+<body>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="natuur.html">Natuur</a>
+    <a href="geschiedenis.html">Geschiedenis</a>
+    <a href="fotos.html">Foto’s</a>
+  </nav>
+
+  <header>
+    <h1>🌲 Welkom in Wouwse Plantage</h1>
+    <p>Een prachtig dorp in het hart van de natuur</p>
+  </header>
+
+  <section class="intro">
+    <h2>Over Wouwse Plantage</h2>
+    <p>Wouwse Plantage is een gezellig dorp in Noord-Brabant, omringd door bossen, natuur en geschiedenis. Het is de perfecte plek om te wandelen, fietsen en tot rust te komen.</p>
+  </section>
+
+  <section class="highlights">
+    <h2>🌟 Highlights</h2>
+    <ul>
+      <li>🚶‍♂️ Mooie wandelroutes door de bossen</li>
+      <li>🚴‍♀️ Fietsen langs oude landgoederen</li>
+      <li>🏡 Historische gebouwen en landhuizen</li>
+      <li>🦌 Veel natuur & wilde dieren spotten</li>
+    </ul>
+  </section>
+
+  <section class="gallery">
+    <h2>📸 Fotogalerij</h2>
+    <p>Hier kun je straks foto's toevoegen van de mooie natuur en omgeving.</p>
+    <!-- Je kunt hier afbeeldingen plaatsen zoals: <img src="images/bos.jpg" alt="Bos"> -->
+  </section>
+
+  <footer>
+    <p>© 2025 Gemaakt door [Jouw Naam] | Info over Wouwse Plantage</p>
+  </footer>
+
+</body>
+</html>

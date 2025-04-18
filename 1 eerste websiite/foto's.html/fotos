@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Foto’s Wouwse Plantage</title>
+  <link rel="stylesheet" href="style.css" /> <!-- Alleen hier de stylesheet koppelen -->
+</head>
+<body>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="natuur.html">Natuur</a>
+    <a href="geschiedenis.html">Geschiedenis</a>
+    <a href="fotos.html">Foto’s</a>
+  </nav>
+
+  <header>
+    <h1>📸 Foto’s uit Wouwse Plantage</h1>
+    <p>Een sfeerimpressie van de natuur en omgeving</p>
+  </header>
+
+  <main>
+    <section class="gallery">
+      <img src="images/bos.jpg" alt="Bos" />
+      <img src="images/landgoed.jpg" alt="Landgoed" />
+      <img src="images/wandeling.jpg" alt="Wandeling" />
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Gemaakt door [Jouw Naam]</p>
+  </footer>
+
+</body>
+</html>

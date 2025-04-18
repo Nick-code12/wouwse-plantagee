@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wouwse Plantage</title>
+  <link rel="stylesheet" href="style.css" /> <!-- Alleen hier stylesheet koppelen -->
+</head>
+<body>
+
+  <header>
+    <h1>🌳 Welkom in Wouwse Plantage</h1>
+    <p>Een dorp vol natuur, rust en historie</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="natuur.html">Natuur</a>
+    <a href="geschiedenis.html">Geschiedenis</a>
+    <a href="fotos.html">Foto’s</a>
+  </nav>
+
+  <main>
+    <section>
+      <h2>Waarom Wouwse Plantage?</h2>
+      <p>Wouwse Plantage is een van de groenste dorpen in Noord-Brabant. Omringd door bossen en natuurgebieden is het een ideale plek om te wandelen, fietsen en tot rust te komen.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Gemaakt door [Jouw Naam]</p>
+  </footer>
+
+</body>
+</html>
